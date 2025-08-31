@@ -23,6 +23,7 @@
     - [Emeritus Triagers](#emeritus-triagers)
 - [License](#license)
 
+Piyush Grover
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
